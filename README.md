@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<img src="./assets/linkedin-d.gif">
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prat1kbhujbal&show_icons=true&theme=rose_pine)
 
