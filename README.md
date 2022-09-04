@@ -4,7 +4,12 @@
   </a>
 </h1>
 
-<h2 align="center">
+
+
+
+
+ <div align="center">
+
 
 <a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-light.svg" height='24px'/></a>
 <a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-dark.svg" height='24px'/></a>
@@ -14,7 +19,9 @@
 &nbsp;&nbsp;
 <a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/insta-light.svg" height='24px'/></a>
 <a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/insta-dark.svg" height='24px'/></a>
-</h2>
+
+</div> 
+
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prat1kbhujbal&show_icons=true&theme=rose_pine)
 
