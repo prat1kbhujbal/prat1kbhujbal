@@ -20,7 +20,7 @@
 </div> 
 &nbsp;&nbsp;
 
-<img align="right" alt="GIF" src="./assets/11.gif" width="360px"/>
+<img align="right" alt="GIF" src="./assets/1.gif" width="360px"/>
 
 ## 🧐 About Me:
 - 🎓 &nbsp; Pursuing a Masters degree in Robotics Engineering.
