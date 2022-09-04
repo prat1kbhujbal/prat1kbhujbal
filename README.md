@@ -12,7 +12,7 @@
 
  <div align="center">
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/prat1kbhujbal/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/prat1kbhujbal/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/prat1kbhujbal/prat1kbhujbal/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/prat1kbhujbal/prat1kbhujbal/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
