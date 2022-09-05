@@ -7,15 +7,12 @@
 </h1>  
 
 <div align="center">
-
-<a href='https://www.linkedin.com/in/pratikbhujbal#gh-light-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/lnd.svg" height='24px'/></a>
-<a href='https://www.linkedin.com/in/pratikbhujbal#gh-dark-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/lnd.svg" height='30px'/></a>
+  
+<a href='https://www.linkedin.com/in/pratikbhujbal'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/lnd.svg" height='35px'/></a>
 &nbsp;&nbsp;
-<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/maild.svg" height='30px'/></a>
+<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/maild.svg" height='35px'/></a>
 &nbsp;&nbsp;
-<a href='https://github.com/prat33k-dev#gh-light-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/webd.png" height='24px'/></a>
-<a href='https://github.com/prat33k-dev#gh-dark-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/webd.png" height='30px'/></a>
-
+<a href='https://github.com/prat33k-dev'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/webd.png" height='35px'/></a>
 </div> 
 &nbsp;&nbsp;
 
