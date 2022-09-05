@@ -43,11 +43,15 @@
 <a href="https://aws.amazon.com/what-is-aws/?trk=fce796e8-4ceb-48e0-9767-89f7873fac3d&sc_channel=ps&s_kwcid=AL!4422!3!432339156147!e!!g!!amazon%20web%20services&ef_id=CjwKCAjwvNaYBhA3EiwACgndgtsTu-8NpKlzufyfsLgR2ReJWuBQh_CSyiWcJR1FhOCShqHbT1ELZxoCaDEQAvD_BwE:G:s&s_kwcid=AL!4422!3!432339156147!e!!g!!amazon%20web%20services" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
+## :octocat: Github Stats:
 
+<p>
+  
 ![Pratik's stats](https://github-readme-stats.vercel.app/api?username=prat1kbhujbal&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6")
-
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
 
+ </p>
+  
 <div align="center">
  
  ![Snake animation](https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
