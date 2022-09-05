@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-light.svg" height='24px'/></a>
+<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-light.svg" height='24px'/></a>
 <a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-dark.svg" height='24px'/></a>
 &nbsp;&nbsp;
 <a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/mail-light.png" height='24px'/></a>
