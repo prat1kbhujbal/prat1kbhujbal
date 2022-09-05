@@ -13,8 +13,8 @@
 &nbsp;&nbsp;
 <a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/mail-dark.png" height='24px'/></a>
 &nbsp;&nbsp;
-<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web2-light.png" height='24px'/></a>
-<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web2-dark.png" height='24px'/></a>
+<a href='https://github.com/prat33k-dev#gh-light-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web2-light.png" height='24px'/></a>
+<a href='https://github.com/prat33k-dev#gh-dark-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web2-dark.png" height='24px'/></a>
 
 </div> 
 &nbsp;&nbsp;
@@ -46,7 +46,7 @@
 
 
 <a href="#"><img alt="Pratik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prat1kbhujbal&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
- <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&card_width=2&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+ <a href="#"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&card_width=2&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
 
   
 <div align="center">
