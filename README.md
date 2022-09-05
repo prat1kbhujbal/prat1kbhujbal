@@ -9,13 +9,13 @@
 <div align="center">
 
 <a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-light.svg" height='24px'/></a>
-<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-dark.svg" height='24px'/></a>
+<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-dark.svg" height='24px'/></a>
 &nbsp;&nbsp;
-<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/mail-light.png" height='24px'/></a>
-<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/mail-dark.png" height='24px'/></a>
+<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/mail-light.png" height='24px'/></a>
+<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/mail-dark.png" height='24px'/></a>
 &nbsp;&nbsp;
-<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/insta-light.svg" height='24px'/></a>
-<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="linkedin" src="./assets/insta-dark.svg" height='24px'/></a>
+<a href='https://codestackr.com#gh-light-mode-only'><img align='center' alt="instagram" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/insta-light.svg" height='24px'/></a>
+<a href='https://codestackr.com#gh-dark-mode-only'><img align='center' alt="instagram" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/insta-dark.svg" height='24px'/></a>
 
 </div> 
 &nbsp;&nbsp;
