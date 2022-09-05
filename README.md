@@ -49,7 +49,7 @@
 
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
 
- <div align="center">
+<div align="center">
  
  ![Snake animation](https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
   
