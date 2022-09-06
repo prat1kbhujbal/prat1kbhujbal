@@ -5,7 +5,7 @@
   </a>
 
 </h1>  
-
+&nbsp;&nbsp;
 <div align="center">
   
 <a href='https://www.linkedin.com/in/pratikbhujbal#gh-light-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-light.svg" height='24px'/></a>
@@ -16,7 +16,7 @@
 <a href='https://github.com/prat33k-dev#gh-light-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web-light.png" height='24px'/></a>
 <a href='https://github.com/prat33k-dev#gh-dark-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web-dark.png" height='24px'/></a>
 </div> 
-&nbsp;&nbsp;
+
 
 <img align="right" alt="GIF" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/walle.gif" width="360px"/>
 
