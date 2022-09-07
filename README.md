@@ -8,17 +8,17 @@
 &nbsp;&nbsp;
 <div align="center">
   
-<a href='https://www.linkedin.com/in/pratikbhujbal#gh-light-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-light.svg" height='24px'/></a>
-<a href='https://www.linkedin.com/in/pratikbhujbal#gh-dark-mode-only'><img align='center' alt="linkedin" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/linkedin-dark.svg" height='24px'/></a>
+<a href='https://www.linkedin.com/in/pratikbhujbal#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-light.svg" height='24px'/></a>
+<a href='https://www.linkedin.com/in/pratikbhujbal#gh-dark-mode-only'><img align='center' alt="linkedin" src=".//assets/linkedin-dark.svg" height='24px'/></a>
 &nbsp;&nbsp;
-<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/mail-dark.png" height='24px'/></a>
+<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="./assets/mail-dark.png" height='24px'/></a>
 &nbsp;&nbsp;
-<a href='https://github.com/prat33k-dev#gh-light-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web-light.png" height='24px'/></a>
-<a href='https://github.com/prat33k-dev#gh-dark-mode-only'><img align='center' alt="website" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/web-dark.png" height='24px'/></a>
+<a href='https://github.com/prat33k-dev#gh-light-mode-only'><img align='center' alt="website" src="./assets/web-light.png" height='24px'/></a>
+<a href='https://github.com/prat33k-dev#gh-dark-mode-only'><img align='center' alt="website" src="./assets/web-dark.png" height='24px'/></a>
 </div> 
 
 
-<img align="right" alt="GIF" src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/walle.gif" width="360px"/>
+<img align="right" alt="GIF" src="./assets/walle.gif" width="360px"/>
 
 ## 🧐 About Me:
 - 🎓 &nbsp; Pursuing a Master's degree in Robotics Engineering.
@@ -27,7 +27,7 @@
 
 ## 🛠 Languages and Tools:
 <p align="left"> 
-<a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/assets/ros.png" alt="ROS" width="75" height="40"/></a>
+<a href="https://www.ros.org/" target="_blank"> <img src="./assets/ros.png" alt="ROS" width="75" height="40"/></a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.electronicshub.org/basics-of-embedded-c-program/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/></a>
