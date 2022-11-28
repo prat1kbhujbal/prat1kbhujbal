@@ -55,8 +55,3 @@
  ![Snake animation](https://github.com/prat1kbhujbal/prat1kbhujbal/blob/output/github-contribution-grid-snake-white.svg#gh-light-mode-only)
   
 </div> 
-
-<dic align="right">
-![](https://komarev.com/ghpvc/?username=prat1kbhujbal&color=blueviolet&style=plastic)
-</div>
-
