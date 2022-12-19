@@ -11,7 +11,7 @@
 <a href='https://www.linkedin.com/in/pratikbhujbal#gh-light-mode-only'><img align='center' alt="linkedin" src="./assets/linkedin-light.svg" height='24px'/></a>
 <a href='https://www.linkedin.com/in/pratikbhujbal#gh-dark-mode-only'><img align='center' alt="linkedin" src=".//assets/linkedin-dark.svg" height='24px'/></a>
 &nbsp;&nbsp;
-<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="./assets/mail-dark.png" height='24px'/></a>
+<a href="mailto:pbhujbal@umd.edu"><img align='center' alt="email" src="./assets/mail.png" height='24px'/></a>
 &nbsp;&nbsp;
 <a href='https://prat1kbhujbal.github.io/#gh-light-mode-only'><img align='center' alt="website" src="./assets/web-light.png" height='24px'/></a>
 <a href='https://prat1kbhujbal.github.io/#gh-dark-mode-only'><img align='center' alt="website" src="./assets/web-dark.png" height='24px'/></a>
