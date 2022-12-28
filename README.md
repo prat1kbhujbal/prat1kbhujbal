@@ -22,7 +22,7 @@
 
 ## 🧐 About Me:
 - 🎓 &nbsp; Pursuing a Master's degree in Robotics Engineering.
-- 🤖 &nbsp; Interest in Path planning, Computer vision, State Estimation, and Motion Control. 
+- 🤖 &nbsp; Interest in Path planning, Deep Learning, Computer vision, State Estimation, and Motion Control. 
 - 🤝 &nbsp; Open to collaborate.
 
 ## 🛠 Languages and Tools:
