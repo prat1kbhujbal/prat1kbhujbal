@@ -44,8 +44,8 @@
 ## :octocat: Github Stats:
 
 
-<a href="#"><img alt="Pratik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prat1kbhujbal&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
- <a href="#"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&card_width=2&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&hide=JavaScript" height="200"/></a>
+<a href="#"><img alt="Pratik's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prat1kbhujbal&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+ <a href="#"><img alt="Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prat1kbhujbal&langs_count=10&layout=compact&theme=react&hide_border=true&card_width=2&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&hide=JavaScript" height="200"/></a>
 
   
 <div align="center">
