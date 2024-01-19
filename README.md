@@ -22,7 +22,7 @@
 
 ## 🧐 About Me:
 - 🎓 &nbsp; Master's degree in Robotics Engineering.
-- 🤖 &nbsp; Interest in Path planning, Deep Learning, Computer vision, State Estimation, and Motion Control. 
+- 🤖 &nbsp; Interest in Path planning, Deep Learning, Computer vision, and State Estimation. 
 - 🤝 &nbsp; Open to collaborate.
 
 ## 🛠 Languages and Tools:
@@ -33,8 +33,6 @@
  <a href="https://opencv.org//" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.electronicshub.org/basics-of-embedded-c-program/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="40" height="40"/></a>
-<a href="https://www.ni.com/en-us/shop/labview.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabVIEW" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
