@@ -36,7 +36,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/what-is-aws/?trk=fce796e8-4ceb-48e0-9767-89f7873fac3d&sc_channel=ps&s_kwcid=AL!4422!3!432339156147!e!!g!!amazon%20web%20services&ef_id=CjwKCAjwvNaYBhA3EiwACgndgtsTu-8NpKlzufyfsLgR2ReJWuBQh_CSyiWcJR1FhOCShqHbT1ELZxoCaDEQAvD_BwE:G:s&s_kwcid=AL!4422!3!432339156147!e!!g!!amazon%20web%20services" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 ## :octocat: Github Stats:
